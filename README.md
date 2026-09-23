@@ -15,7 +15,9 @@ Gmail-Postfach zu — für Windows.
    Buchungen. Betrag, Rechnungsdatum und Rechnungsnummer werden aus den
    PDF-Anhängen ausgelesen.
 3. **Prüfen und übernehmen** — jeder Vorschlag zeigt, warum er vorgeschlagen
-   wird. Erst ein Klick legt die Rechnung ab, nach Jahr sortiert.
+   wird. Erst ein Klick legt die Rechnung ab, nach Jahr sortiert. Mit einem
+   Häkchen je Buchung behalten Sie den Überblick, was schon erledigt ist; ein
+   Filter zeigt nur die noch nicht abgehakten.
 4. **Weitergeben** — bestätigte Belege landen zusätzlich in einem
    Übergabeordner für **DATEV Unternehmen online** (Belegtransfer wird direkt
    unterstützt). Eine CSV-Liste aller Zuordnungen gibt es auf Knopfdruck.
